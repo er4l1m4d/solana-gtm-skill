@@ -86,9 +86,9 @@ AI: [Routes to founder-branding.md and generates POV, pillars, writing style, ex
 
 ## Who This Is For
 
-- **Hackathon Participants**: Get a fast, scrappy GTM plan to win
-- **Established Founders**: Build a sustainable, long-term brand strategy
-- **Technical Builders**: No marketing expertise required — the skill guides you
+- **Hackathon Participants:** Get a fast, scrappy GTM plan to win
+- **Established Founders:** Build a sustainable, long-term brand strategy
+- **Technical Builders:** No marketing expertise required — the skill guides you
 
 ## Execution Modes
 
@@ -103,10 +103,10 @@ The skill operates in two modes depending on your timeline:
 
 This skill was built by analyzing successful Solana go-to-market strategies:
 
-- **GMTrade** — "On-Chain Robinhood" positioning, RWA expansion, 0.5bps fees
-- **PYUSD on Solana** — $700M TVL in 2 months via Sentora
-- **Tala** — Financial inclusion through tokenized lending (13M customers)
-- **Raposa Coffee** — NFT brand to real-world business (Miami Heat partner)
+- **GMTrade:** "On-Chain Robinhood" positioning, RWA expansion, 0.5bps fees
+- **PYUSD on Solana:** $700M TVL in 2 months via Sentora
+- **Tala:** Financial inclusion through tokenized lending (13M customers)
+- **Raposa Coffee:** NFT brand to real-world business (Miami Heat partner)
 
 ## Roadmap
 
@@ -131,7 +131,3 @@ We welcome PRs! If you have a successful Solana launch story, consider adding it
 ## License
 
 MIT — use it, modify it, ship it.
-
----
-
-Built for the [Superteam Brasil Solana AI Kit Hackathon](https://github.com/solanabr/skill-bounty)
