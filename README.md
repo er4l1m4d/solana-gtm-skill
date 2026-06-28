@@ -88,7 +88,7 @@ AI: [Routes to founder-branding.md and generates POV, pillars, writing style, ex
 
 - **Hackathon Participants:** Get a fast, scrappy GTM plan to win
 - **Established Founders:** Build a sustainable, long-term brand strategy
-- **Technical Builders:** No marketing expertise required — the skill guides you
+- **Technical Builders:** No marketing expertise required; the skill guides you
 
 ## Execution Modes
 
