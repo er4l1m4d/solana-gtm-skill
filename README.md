@@ -1,6 +1,6 @@
 # Solana GTM Skill
 
-> Turn your Solana project from product to market — a production-grade go-to-market co-pilot for founders and builders.
+> Turn your Solana project from product to market. A production-grade go-to-market co-pilot for founders and builders.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Solana AI Kit](https://img.shields.io/badge/Solana_AI_Kit-Compatible-blue)](https://github.com/solanabr/solana-ai-kit)
